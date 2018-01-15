@@ -2,7 +2,7 @@ package com.naresh.org
 
 import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.sql.types._
-import org.apache.spark.sql.sqlContext
+import org.apache.spark.sql.SQLContext
 
 object Process
 {
